@@ -61,19 +61,13 @@ Currently a student at 42 Lisboa, passionate about entrepreneurship, technology,
 <h2 align="center">Projects to Check Out</h2>
 <ul>
   <li>
-    <strong>cub3d</strong>: A 3D game with a raycaster engine.
-    <br>
-    <a href="https://github.com/btoksoez/cub3d" target="_blank">Repository Link</a>
+    <a href="https://github.com/btoksoez/cub3d" target="_blank"> <strong>cub3d</strong></a>: A 3D game with a raycaster engine.
   </li>
   <li>
-    <strong>minishell</strong>: Replicated bash in C.
-    <br>
-    <a href="https://github.com/btoksoez/minishell" target="_blank">Repository Link</a>
+    <a href="https://github.com/btoksoez/minishell" target="_blank"><strong>minishell</strong></a>: Replicated bash in C.
   </li>
   <li>
-    <strong>GTSRB5</strong>: Trained a neural net on the GTSRB5 traffic sign dataset to recognize traffic signs.
-    <br>
-    <a href="https://github.com/btoksoez/CS50AI" target="_blank">Repository Link</a>
+    <a href="https://github.com/btoksoez/CS50AI" target="_blank"><strong>GTSRB5</strong></a>: Trained a neural net on the GTSRB5 traffic sign dataset to recognize traffic signs.
   </li>
 </ul>
 
