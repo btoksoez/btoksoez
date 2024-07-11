@@ -69,6 +69,9 @@ Currently a student at 42 Lisboa, passionate about entrepreneurship, technology,
   <li>
     <a href="https://github.com/btoksoez/CS50AI" target="_blank"><strong>GTSRB5</strong></a>: Trained a neural net on the GTSRB5 traffic sign dataset to recognize traffic signs.
   </li>
+  <li>
+    <a href="https://github.com/btoksoez/fractol" target="_blank"> <strong>fractol</strong></a>: A visual fractal generator.
+  </li>
 </ul>
 
 <br>
