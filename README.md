@@ -78,7 +78,7 @@ Currently a student at 42 Lisboa, passionate about entrepreneurship, technology,
   <tr>
     <td align="center" style="width: 150px;">
       <a href="https://github.com/btoksoez/CS50AI" target="_blank">
-        <img src="http://net4info.de/cpg/albums/userpics/Verkehrszeichen.jpg" alt="GTSRB5" width="150" height="150"><br>
+        <img src="./imgs/steet.png" alt="GTSRB5" width="150" height="150"><br>
         <strong>GTSRB5</strong><br>Trained a neural net on the<br>GTSRB5 traffic sign dataset.
       </a>
     </td>
