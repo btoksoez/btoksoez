@@ -59,20 +59,39 @@ Currently a student at 42 Lisboa, passionate about entrepreneurship, technology,
 <br>
 <br>
 <h2 align="center">Projects to Check Out</h2>
-<ul>
-  <li>
-    <a href="https://github.com/btoksoez/cub3d" target="_blank"> <strong>cub3d</strong></a>: A 3D game with a raycaster engine.
-  </li>
-  <li>
-    <a href="https://github.com/btoksoez/minishell" target="_blank"><strong>minishell</strong></a>: Replicated bash in C.
-  </li>
-  <li>
-    <a href="https://github.com/btoksoez/CS50AI" target="_blank"><strong>GTSRB5</strong></a>: Trained a neural net on the GTSRB5 traffic sign dataset to recognize traffic signs.
-  </li>
-  <li>
-    <a href="https://github.com/btoksoez/fractol" target="_blank"> <strong>fractol</strong></a>: A visual fractal generator.
-  </li>
-</ul>
+
+<table align="center">
+  <tr>
+    <td align="center" style="width: 150px;">
+      <a href="https://github.com/btoksoez/cub3d" target="_blank">
+        <img src="./imgs/cub3d.png" alt="cub3d" width="150" height="150"><br>
+        <strong>cub3d</strong><br>A 3D game with a raycaster engine.
+      </a>
+    </td>
+    <td align="center" style="width: 150px;">
+      <a href="https://github.com/btoksoez/minishell" target="_blank">
+        <img src="./imgs/minishell.png" alt="minishell" width="150" height="150"><br>
+        <strong>minishell</strong><br>Replicated bash in C.
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="width: 150px;">
+      <a href="https://github.com/btoksoez/CS50AI" target="_blank">
+        <img src="http://net4info.de/cpg/albums/userpics/Verkehrszeichen.jpg" alt="GTSRB5" width="150" height="150"><br>
+        <strong>GTSRB5</strong><br>Trained a neural net on the<br>GTSRB5 traffic sign dataset.
+      </a>
+    </td>
+    <td align="center" style="width: 150px;">
+      <a href="https://github.com/btoksoez/fractol" target="_blank">
+        <img src="./imgs/mandelbrot.png" alt="fractol" width="150" height="150"><br>
+        <strong>fractol</strong><br>A visual fractal generator.
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 <br>
 <br>
