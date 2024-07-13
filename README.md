@@ -4,7 +4,7 @@
  </a>
 </h1>
 <h4 align="center">
-Currently a student at 42 Lisboa, passionate about entrepreneurship, technology, and personal growth.
+Currently a student at 42 Lisboa, passionate about entrepreneurship, coding, and personal growth.
 </h4>
 
 <br>
