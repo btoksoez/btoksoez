@@ -70,7 +70,7 @@ Currently a student at 42 Lisboa, passionate about entrepreneurship, technology,
     </td>
     <td align="center" style="width: 150px; height: 200px;">
       <a href="https://github.com/btoksoez/minishell" target="_blank">
-        <img src="./imgs/minishell.png" alt="minishell" style="width: 150px; height: 150px; object-fit: cover;"><br>
+        <img src="./imgs/minishell_new.png" alt="minishell" style="width: 150px; height: 150px; object-fit: cover;"><br>
         <strong>minishell</strong><br>Replicated bash in C.
       </a>
     </td>
