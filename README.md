@@ -62,34 +62,35 @@ Currently a student at 42 Lisboa, passionate about entrepreneurship, technology,
 
 <table align="center">
   <tr>
-    <td align="center" style="width: 150px;">
+    <td align="center" style="width: 150px; height: 200px;">
       <a href="https://github.com/btoksoez/cub3d" target="_blank">
-        <img src="./imgs/cub3d.png" alt="cub3d" width="150" height="150"><br>
+        <img src="./imgs/cub3d.png" alt="cub3d" style="width: 150px; height: 150px; object-fit: cover;"><br>
         <strong>cub3d</strong><br>A 3D game with a raycaster engine.
       </a>
     </td>
-    <td align="center" style="width: 150px;">
+    <td align="center" style="width: 150px; height: 200px;">
       <a href="https://github.com/btoksoez/minishell" target="_blank">
-        <img src="./imgs/minishell.png" alt="minishell" width="150" height="150"><br>
+        <img src="./imgs/minishell.png" alt="minishell" style="width: 150px; height: 150px; object-fit: cover;"><br>
         <strong>minishell</strong><br>Replicated bash in C.
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" style="width: 150px;">
+    <td align="center" style="width: 150px; height: 200px;">
       <a href="https://github.com/btoksoez/CS50AI" target="_blank">
-        <img src="./imgs/street.png" alt="GTSRB5" width="150" height="150"><br>
-        <strong>GTSRB5</strong><br>Trained a neural net on the<br>GTSRB5 traffic sign dataset.
+        <img src="./imgs/street.png" alt="GTSRB5" style="width: 150px; height: 150px; object-fit: cover;"><br>
+        <strong>GTSRB5</strong><br>Neural net that recognizes traffic signs.
       </a>
     </td>
-    <td align="center" style="width: 150px;">
+    <td align="center" style="width: 150px; height: 200px;">
       <a href="https://github.com/btoksoez/fractol" target="_blank">
-        <img src="./imgs/mandelbrot.png" alt="fractol" width="150" height="150"><br>
+        <img src="./imgs/mandelbrot.png" alt="fractol" style="width: 150px; height: 150px; object-fit: cover;"><br>
         <strong>fractol</strong><br>A visual fractal generator.
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
