@@ -78,9 +78,9 @@ Currently a student at 42 Lisboa, passionate about entrepreneurship, coding, and
   </tr>
   <tr>
     <td align="center" style="width: 150px; height: 200px;">
-      <a href="https://github.com/btoksoez/traffic" target="_blank">
-        <img src="./imgs/street.png" alt="GTSRB5" style="width: 150px; height: 150px; object-fit: cover;"><br>
-        <strong>GTSRB5</strong><br>Neural net that recognizes traffic signs.
+      <a href="https://github.com/btoksoez/makemore" target="_blank">
+        <img src="https://github.com/btoksoez/makemore/blob/main/imgs/final.png" alt="makemore" style="width: 150px; height: 150px; object-fit: cover;"><br>
+        <strong>Makemore</strong><br>An Autoregressive Character-Level<br>Language Model written from scratch. 
       </a>
     </td>
     <td align="center" style="width: 150px; height: 200px;">
