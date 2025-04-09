@@ -1,113 +1,112 @@
-<h1 align="center">
- <a href="https://git.io/typing-svg">
-   <img src="http://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=27&letterSpacing=2px&duration=3000&pause=1000&color=217C0C&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Benian" alt="Typing SVG" />
- </a>
-</h1>
+<h1 align="center">Hi, I'm Benian</h1>
+<div align="center">
+      <img src="./imgs/pb.png" alt="Benian" width="150" style="border-radius: 50%; margin-top: 20px;" />
+    </div>
+
 <h4 align="center">
-Currently a student at 42 Lisboa, passionate about entrepreneurship, coding, and personal growth.
+AI entrepreneur & software developer, building custom AI tools and automation systems for impactful businesses.
 </h4>
 
 <br>
 <br>
+
+<h2 align="center">💻 Tech Stack</h2>
+
 <div align="center" style="text-align: center;">
-  <h2 align="center"> Languages and Tools </h2>
-    <p>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-	  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-      <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-	    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
-      <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
-      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    </p>
-    <p>
-	  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-	  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-      <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-    </p>
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+<p>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+</p>
+<p>
+<img src="https://img.shields.io/badge/VIM-11AB00?style=for-the-badge&logo=vim&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+</p>
 </div>
 
 <br>
 <br>
-<h2 align="center">Professional Experience</h2>
-<ul>
-  <li><strong>Entrepreneurship & Business Innovation</strong>: 
-    <ul>
-      <li>BSc in Entrepreneurship & Business Innovation from Tilburg University.</li>
-      <li>Founded my own startup that created a microdosing reflection guide.</li>
-      <li>Marketing Lead at Maaind, a pioneering AI and neuroscience startup</li>
-    </ul>
-  <li><strong>Coding</strong>:
-    <ul>
-      <li>Pursuing the Common Core at 42 Lisboa, currently focused on the C++ modules.</li>
-      <li>Harvard's CS50 Python, Web and AI course.</li>
-    </ul>
-  <li><strong>Facilitation & Inner work</strong>:
-    <ul>
-      <li>Hosting transformational retreats.</li>
-      <li>Facilitating meditations, ice baths and more.</li>
-    </ul>
-  </li>
-</ul>
+
+<h2 align="center">🧠 Professional Experience</h2>
+
+- **Founder @ Artha Labs (Current)**
+  - Building AI-powered tools and automation systems for conscious, impact-driven businesses.
+  - Projects include LLM-integrated business apps, full-stack development & automation building.
+
+- **Entrepreneurship & Business Innovation**
+  - BSc in Entrepreneurship & Business Innovation from Tilburg University.
+  - Founded a startup around microdosing and self-reflection tools.
+  - Former Marketing Lead at Maaind, an AI + neuroscience startup.
+
+- **Software Development**
+  - Studying low-level programming at 42 Lisboa (C, C++, Shell).
+  - Completed Harvard CS50 courses in Python, Web Development, and AI.
+  - Experienced in building modern full-stack apps with AI/LLM capabilities.
+
+- **Facilitation & Inner Work**
+  - Hosts transformational retreats focused on self-awareness and growth.
+  - Facilitates breathwork, meditation, and cold exposure sessions.
+
 
 <br>
 <br>
-<h2 align="center">Projects to Check Out</h2>
+
+<h2 align="center">🚀 Some Cool Projects</h2>
 
 <table align="center">
   <tr>
-    <td align="center" style="width: 150px; height: 200px;">
-      <a href="https://github.com/btoksoez/cub3d" target="_blank">
-        <img src="./imgs/cub3d.png" alt="cub3d" style="width: 150px; height: 150px; object-fit: cover;"><br>
-        <strong>cub3d</strong><br>A 3D game with a raycaster engine.
+    <td align="center" width="200px">
+      <a href="https://github.com/btoksoez/cub3d">
+        <img src="./imgs/cub3d.png" width="150" height="150"><br>
+        <strong>cub3d</strong><br>3D raycasting game
       </a>
     </td>
-    <td align="center" style="width: 150px; height: 200px;">
-      <a href="https://github.com/btoksoez/minishell" target="_blank">
-        <img src="./imgs/minishell_new.png" alt="minishell" style="width: 150px; height: 150px; object-fit: cover;"><br>
-        <strong>minishell</strong><br>Replicated bash in C.
+    <td align="center" width="200px">
+      <a href="https://github.com/btoksoez/minishell">
+        <img src="./imgs/minishell_new.png" width="150" height="150"><br>
+        <strong>minishell</strong><br>Bash shell clone in C
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" style="width: 150px; height: 200px;">
-      <a href="https://github.com/btoksoez/makemore" target="_blank">
-        <img src="https://github.com/btoksoez/makemore/blob/main/imgs/final.png" alt="makemore" style="width: 150px; height: 150px; object-fit: cover;"><br>
-        <strong>Makemore</strong><br>An Autoregressive Character-Level<br>Language Model written from scratch. 
+    <td align="center" width="200px">
+      <a href="https://github.com/btoksoez/makemore">
+        <img src="https://github.com/btoksoez/makemore/blob/main/imgs/final.png" width="150" height="150"><br>
+        <strong>Makemore</strong><br>Autoregressive language model from scratch
       </a>
     </td>
-    <td align="center" style="width: 150px; height: 200px;">
-      <a href="https://github.com/btoksoez/fractol" target="_blank">
-        <img src="./imgs/mandelbrot.png" alt="fractol" style="width: 150px; height: 150px; object-fit: cover;"><br>
-        <strong>fractol</strong><br>A visual fractal generator.
+    <td align="center" width="200px">
+      <a href="https://github.com/btoksoez/fractol">
+        <img src="./imgs/mandelbrot.png" width="150" height="150"><br>
+        <strong>fractol</strong><br>Fractal visualizer in C
       </a>
     </td>
   </tr>
 </table>
 
-
-
-
 <br>
-<br>
-<h2 align="center">About Me</h2>
-<p>
+
+<h2 align="center">🧍 About Me</h2>
+
 I am passionate about impact-focused startups, meaningful conversations, ice baths and everything else that's fun and challenging. I love coding, traveling, meditation, health, and many other topics. In my free time, you'll find me cooking with friends, spending time in nature, and always exploring new things and connecting with others. I aim to use this short life on this rock flying through space to have positive impact, fun, and experience life to the fullest.
-</p>
 
 <br>
-<br>
-<h2 align="center">Let's Connect</h2>
-<p>
-I am always open to new encounters and ideas. Feel free to reach out!
-</p>
+
+<h2 align="center">🤝 Let's Connect</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/benian" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
