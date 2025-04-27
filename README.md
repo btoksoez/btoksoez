@@ -43,7 +43,7 @@ AI entrepreneur & software developer, building custom AI tools and automation sy
 <h2 align="center">🧠 Professional Experience</h2>
 
 - **Founder @ Artha Labs (Current)**
-  - Building AI-powered tools and automation systems for conscious, impact-driven businesses.
+  - Building AI-powered tools and automation systems for impact-driven businesses.
   - Projects include LLM-integrated business apps, full-stack development & automation building.
 
 - **Entrepreneurship & Business Innovation**
@@ -83,9 +83,9 @@ AI entrepreneur & software developer, building custom AI tools and automation sy
   </tr>
   <tr>
     <td align="center" width="200px">
-      <a href="https://github.com/btoksoez/makemore">
-        <img src="https://github.com/btoksoez/makemore/blob/main/imgs/final.png" width="150" height="150"><br>
-        <strong>Makemore</strong><br>Autoregressive language model from scratch
+      <a href="https://github.com/btoksoez/nanoGPT">
+        <img src="https://github.com/btoksoez/nanoGPT/blob/main/imgs/transformer.webp" width="150" height="150"><br>
+        <strong>nanoGPT</strong><br>A decoder-only character-level transformer trained on Shakespeare
       </a>
     </td>
     <td align="center" width="200px">
